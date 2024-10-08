@@ -1,0 +1,89 @@
+.custom-nav-header {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+body {
+    background-color: black;
+}
+
+.home-content {
+    margin-top: 50px;
+}
+
+.input_info {
+    border: 1px solid white;
+}
+
+.feature_info {
+    border: 1px solid white;
+}
+
+.fing-info {
+    border: 1px solid white;
+}
+
+.desc-info {
+    border: 1px solid white;
+}
+
+.druglike-info {
+    border: 1px solid white;
+}
+
+.drug-like-viol{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.results-header-sub {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+.results-header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.molinfo-header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fing-imp-header {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sub-image-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.fing_keys {
+    display: flex;
+    justify-content: center;
+}
+
+.fing_keys p {
+    margin: 0 10px;
+    padding: 18px;
+}
+
+.drug-like-stuff, .drug-like-viol {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+.hyperlink-rule{
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+th, td {
+    color: #fff; 
+}
+
+.arr {
+    color: white;
+}
